@@ -1,0 +1,11 @@
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.deps.json
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.runtimeconfig.json
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.runtimeconfig.dev.json
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.dll
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.pdb
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.csprojAssemblyReference.cache
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.csproj.CoreCompileInputs.cache
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.AssemblyInfoInputs.cache
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.AssemblyInfo.cs
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.dll
+C:\Users\emirhan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\LearningCoreConnectionSignalR.pdb
